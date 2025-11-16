@@ -1,6 +1,6 @@
 # Graph Builder - Приложение для построения и анализа графов
 
-![Интерфейс приложения](interface.png)
+<img src="interface.png" alt="Интерфейс приложения" width="800" style="border: 1px solid #ddd; border-radius: 8px;">
 
 ## Возможности и функциональность
 
